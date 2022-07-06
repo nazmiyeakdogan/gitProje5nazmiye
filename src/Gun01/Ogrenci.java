@@ -8,5 +8,7 @@ public class Ogrenci {
         System.out.println("merhaba 4");
 
         System.out.println("yeniden merhaba");
+
+        System.out.println("bu benim projem");
     }
 }
